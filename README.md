@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HannaGimenes
 - 👀 I’m interested in karate
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on estudar 
+- 💞️ I’m looking to collaborate on  
 - 📫 How to reach me 
 
 <!---
